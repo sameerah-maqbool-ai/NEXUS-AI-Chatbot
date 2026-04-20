@@ -17,6 +17,7 @@ It runs completely on your machine — no API, no internet required.
 
 
 ---
+<img width="1364" height="605" alt="Image" src="https://github.com/user-attachments/assets/c05d5fa8-40f9-4b4a-a019-18b3e61ca437" />
 
 
 ## 🧪 Usage
