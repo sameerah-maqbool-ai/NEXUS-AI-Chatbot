@@ -1,4 +1,5 @@
 # 🤖 NEXUS AI Chatbot
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/c6d814fa-7b9b-4061-9da3-4ccb7be3df23" />
 
 NEXUS AI is a powerful **offline AI chatbot** built using local Large Language Models (LLMs).  
 It runs completely on your machine — no API, no internet required.
